@@ -1,0 +1,16 @@
+
+div{
+    position: absolute;
+    height:500px;
+    width: 500px;
+}
+
+#rightSide{
+    left:650px;
+    border-left: dotted;
+
+}
+
+img{
+    position: absolute;
+}
